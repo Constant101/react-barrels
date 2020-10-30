@@ -1,0 +1,138 @@
+{
+  "cards": [
+    {
+      "id": 0,
+      "name": "aaa",
+      "description": "Tech Task For You",
+      "types": [0, 1],
+      "sizes": [40, 80],
+      "img": "/static/media/barrel-1.5f6cbae8.png",
+      "img2x": "/static/media/barel-1-2x.f7fc3107.png",
+      "price": 40,
+      "category": "1"
+    },
+    {
+      "id": 1,
+      "name": "bbb",
+      "description": "Tech Task For You",
+      "types": [0],
+      "sizes": [40],
+      "img": "/static/media/barrel-2.8b56e4bf.png",
+      "img2x": "/static/media/barel-2-2x.dc205137.png",
+      "price": 85,
+      "category": "1"
+    },
+
+    {
+      "id": 2,
+      "name": "eee",
+      "description": "Tech Task For You",
+      "types": [0, 1],
+      "sizes": [80],
+      "img": "/static/media/barrel-3.6b0f4c33.png",
+      "img2x": "/static/media/barel-3-2x.ceae4628.png",
+      "price": 80,
+      "category": "2"
+    },
+    {
+      "id": 3,
+      "name": "ddd",
+      "description": "Tech Task For You",
+      "types": [1],
+      "sizes": [80, 100],
+      "img": "/static/media/barrel-4.680eef01.png",
+      "img2x": "/static/media/barel-4-2x.8c906e01.png",
+      "price": 60,
+      "category": "1"
+    },
+    {
+      "id": 4,
+      "name": "ggg",
+      "description": "Tech Task For You",
+      "types": [0, 1],
+      "sizes": [40, 80],
+      "img": "/static/media/barrel-1.5f6cbae8.png",
+      "img2x": "/static/media/barel-1-2x.f7fc3107.png",
+      "price": 40,
+      "category": "2"
+    },
+    {
+      "id": 5,
+      "name": "zzz",
+      "description": "Tech Task For You",
+      "types": [0],
+      "sizes": [40],
+      "img": "/static/media/barrel-2.8b56e4bf.png",
+      "img2x": "/static/media/barel-2-2x.dc205137.png",
+      "price": 65,
+      "category": "3"
+    },
+
+    {
+      "id": 6,
+      "name": "hhh",
+      "description": "Tech Task For You",
+      "types": [0, 1],
+      "sizes": [80],
+      "img": "/static/media/barrel-3.6b0f4c33.png",
+      "img2x": "/static/media/barel-3-2x.ceae4628.png",
+      "price": 80,
+      "category": "2"
+    },
+    {
+      "id": 7,
+      "name": "qqq",
+      "description": "Tech Task For You",
+      "types": [1],
+      "sizes": [80, 100],
+      "img": "/static/media/barrel-4.680eef01.png",
+      "img2x": "/static/media/barel-4-2x.8c906e01.png",
+      "price": 60,
+      "category": "3"
+    },
+    {
+      "id": 8,
+      "name": "www",
+      "description": "Tech Task For You",
+      "types": [0, 1],
+      "sizes": [80],
+      "img": "/static/media/barrel-3.6b0f4c33.png",
+      "img2x": "/static/media/barel-3-2x.ceae4628.png",
+      "price": 80,
+      "category": "3"
+    },
+    {
+      "id": 9,
+      "name": "ccc",
+      "description": "Tech Task For You",
+      "types": [1],
+      "sizes": [80, 100],
+      "img": "/static/media/barrel-4.680eef01.png",
+      "img2x": "/static/media/barel-4-2x.8c906e01.png",
+      "price": 60,
+      "category": "3"
+    },
+    {
+      "id": 10,
+      "name": "ddd",
+      "description": "Tech Task For You",
+      "types": [1],
+      "sizes": [80, 100],
+      "img": "/static/media/barrel-4.680eef01.png",
+      "img2x": "/static/media/barel-4-2x.8c906e01.png",
+      "price": 60,
+      "category": "0"
+    },
+    {
+      "id": 11,
+      "name": "ddd",
+      "description": "Tech Task For You",
+      "types": [1],
+      "sizes": [80, 100],
+      "img": "/static/media/barrel-4.680eef01.png",
+      "img2x": "/static/media/barel-4-2x.8c906e01.png",
+      "price": 60,
+      "category": "0"
+    }
+  ]
+}
