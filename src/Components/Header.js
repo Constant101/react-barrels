@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from '../assets/img/logo.png';
 import Button from './Button';
-import Navbar from './Navbar';
 import { NavLink } from 'react-router-dom';
 import SortPopup from './SortPopup';
 import { fetchCards } from '../redux/actions/cards';
@@ -27,18 +26,11 @@ function Header() {
               </div>
               <div className="header-middle">
                 <div className="version-line">
-                  <div className="burger-icon">
-                    <div id="nav-icon">
-                      <span></span>
-                      <span></span>
-                      <span></span>
-                    </div>
-                  </div>
+                
                   <span>
                     Welcome to the new website. The last version is <a href="#">here</a>
                   </span>
                 </div>
-                <Navbar />
 
               </div>
               <div className="header-button">
